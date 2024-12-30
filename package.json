@@ -1,0 +1,9 @@
+{
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "wasmoon-lua5.1": "^1.18.10"
+  }
+}
